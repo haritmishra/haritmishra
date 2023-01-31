@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Harit Mishra 
 
-<img align="right"  alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right"  alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
   
 **Personal Tech Updates**
 
@@ -51,6 +51,8 @@ Skills: C/C++/JavaScript/Python
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
+
+
 
 
 
